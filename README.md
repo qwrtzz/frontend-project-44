@@ -8,3 +8,5 @@
 2. brain-calc: https://asciinema.org/a/umUbtEUU2Fw4ucz9tjcKBYRLc
 
 3. brain-gcd: https://asciinema.org/a/mIJJQL2ryNhNzFyKxYKPVERgu
+
+4. brain-progression: https://asciinema.org/a/WSUglP0UGo6QtUnCpezCtrhHD

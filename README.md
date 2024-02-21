@@ -1,6 +1,7 @@
 ### Hexlet tests and linter status:
+[![Actions Status](https://github.com/qwrtzz/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/qwrtzz/frontend-project-44/actions)
 
-[![Actions Status](https://github.com/Oligkondr/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Oligkondr/frontend-project-44/actions)
+<a href="https://codeclimate.com/github/qwrtzz/frontend-project-44/maintainability"><img src="https://api.codeclimate.com/v1/badges/9cc9d012e2f05f32414b/maintainability" /></a>
 
 ### В этом проекте реализованны 5 простых игр запускаемых через терминал:
 
